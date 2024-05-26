@@ -49,9 +49,6 @@ Após montar o hardware conforme as instruções:
 
 Contribuições para o projeto são bem-vindas! Se você tem sugestões para melhorar o sistema, por favor, faça um fork do repositório e crie um pull request, ou abra um issue com as tags adequadas.
 
-## Licença
-
-Este projeto é distribuído sob a licença MIT.
 
 ## Contato
 
